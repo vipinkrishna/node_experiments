@@ -1,0 +1,1 @@
+console.log("__DIRNAME: ",__dirname, "\n__FILENAME: ",__filename, "\nFILE: ", __filename.split("\\").reverse()[0]);
